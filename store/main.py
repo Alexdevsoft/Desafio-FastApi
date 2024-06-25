@@ -1,4 +1,4 @@
-from fastapi import FastAPI
+from fastapi import FastAPI  # type: ignore
 
 from store.core.config import settings
 from store.routers import api_router
