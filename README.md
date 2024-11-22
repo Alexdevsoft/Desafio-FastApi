@@ -2,6 +2,8 @@
 
 Este repositório contém a implementação de uma API de produtos utilizando FastAPI, MongoDB e Pytest para testes.
 
+**Uma API RESTful para gerenciamento de produtos.**
+
 ## Estrutura do Projeto
 
 - **store**
