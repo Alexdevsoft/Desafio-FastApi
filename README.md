@@ -22,6 +22,9 @@ Este repositório contém a implementação de uma API de produtos utilizando Fa
 - **tests**
   - `factories.py`: Fábrica de dados para testes.
   - `test_product.py`: Testes para o módulo de produtos.
+ 
+  **Criar Produto:** O caso de uso "criar produto" valida os dados do produto, cria um novo documento no MongoDB e retorna o produto criado.
+
 
 ## Instalação
 
