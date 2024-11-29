@@ -57,3 +57,4 @@ Para iniciar a aplicação FastAPI, execute:
 ```sh
 uvicorn store.main:app --reload
 ```
+=================================================================================
